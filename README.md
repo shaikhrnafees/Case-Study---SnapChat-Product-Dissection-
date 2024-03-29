@@ -1,7 +1,7 @@
 # Product-Dissection-for-Snapchat
 The "Product Dissection Relational Database" project aims to analyze the core features and functionalities of Snapchat, a leading social media platform, through the lens of relational database design. By dissecting Snapchat's product offerings and real-world problems addressed, this project seeks to highlight key aspects of its innovative solutions and their impact on user experience.
 
-Key Points:
+Key Points:-
 
 Company Overview: The project begins with a brief overview of Snapchat's inception, founders, and its transformative impact on digital communication and social media.
 
