@@ -1,8 +1,7 @@
 # Snapchat Product Dissection
 
 <p align="center">
-  <img src="https://github.com/shaikhrnafees/Case-Study---SnapChat-Product-Dissection-/blob/main/logo.avif" alt="Snapchat Logo" width="400"/> 
-  <img src="https://github.com/shaikhrnafees/Case-Study---SnapChat-Product-Dissection-/blob/main/gif%202.webp" alt="GIF" width="120"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snapchat_logo_icon_169746.png" alt="Snapchat Logo" width="520"/> 
 </p>
 
 ## Table of Contents
@@ -57,6 +56,10 @@ The ER notation provides a comprehensive schema description, outlining the entit
 
 ## Market Positioning
 Snapchat has positioned itself uniquely in the market by targeting a younger audience and focusing on privacy and creativity. Its ephemeral messaging feature appeals to users concerned about data permanence, while its creative tools encourage artistic expression.
+
+<p align="center">
+  <img src="https://adparlor.com/wp-content/uploads/2017/05/FeatImg_Animated_heres-how-you-measure-your-success-on-snapchat-1-1196x0-c-default.gif" alt="GIF" width="360"/>
+</p>
 
 ## Strengths and Weaknesses
 ### Strengths
